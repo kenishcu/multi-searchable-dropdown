@@ -1,0 +1,169 @@
+{
+  "app_version": "20200826",
+  "errors": null,
+  "results": [
+    {
+      "branch_id": 1572,
+      "company_id": 1,
+      "parent_id": 419,
+      "parent_name": "Khoa Điều Trị Nhi (tầng 7)",
+      "room_code": "KDT",
+      "room_id": 419,
+      "room_name": "Khoa Điều Trị Nhi (tầng 7)"
+    },
+    {
+      "branch_id": 1572,
+      "company_id": 1,
+      "parent_id": 461,
+      "parent_name": "Khoa Phẫu Thuật Thủ Thuật",
+      "room_code": "PTTT",
+      "room_id": 461,
+      "room_name": "Khoa Phẫu Thuật Thủ Thuật"
+    },
+    {
+      "branch_id": 1572,
+      "company_id": 1,
+      "parent_id": 544,
+      "parent_name": "Khoa Điều Trị tầng 5",
+      "room_code": "KTHM",
+      "room_id": 544,
+      "room_name": "Khoa Điều Trị tầng 5"
+    },
+    {
+      "branch_id": 1572,
+      "company_id": 1,
+      "parent_id": 552,
+      "parent_name": "Khoa Điều trị Nội - tầng 6",
+      "room_code": "KDT6",
+      "room_id": 552,
+      "room_name": "Khoa Điều trị Nội - tầng 6"
+    },
+    {
+      "branch_id": 1572,
+      "company_id": 1,
+      "parent_id": 558,
+      "parent_name": "Khoa Điều Trị Nhi (tầng 8)",
+      "room_code": "KDT8",
+      "room_id": 558,
+      "room_name": "Khoa Điều Trị Nhi (tầng 8)"
+    },
+    {
+      "branch_id": 1572,
+      "company_id": 1,
+      "parent_id": 559,
+      "parent_name": "Khoa Điều Trị (tầng 9)",
+      "room_code": "KDT9",
+      "room_id": 559,
+      "room_name": "Khoa Điều Trị (tầng 9)"
+    },
+    {
+      "branch_id": 1572,
+      "company_id": 1,
+      "parent_id": 560,
+      "parent_name": "Khoa Điều Trị (tầng 11)",
+      "room_code": "KDT11",
+      "room_id": 560,
+      "room_name": "Khoa Điều Trị (tầng 11)"
+    },
+    {
+      "branch_id": 1572,
+      "company_id": 1,
+      "parent_id": 561,
+      "parent_name": "Khoa Điều Trị (tầng 12)",
+      "room_code": "KDT12",
+      "room_id": 561,
+      "room_name": "Khoa Điều Trị (tầng 12)"
+    },
+    {
+      "branch_id": 1572,
+      "company_id": 1,
+      "parent_id": 575,
+      "parent_name": "Khoa Điều Trị (tầng 13)",
+      "room_code": "KDT13",
+      "room_id": 575,
+      "room_name": "Khoa Điều Trị (tầng 13)"
+    },
+    {
+      "branch_id": 1572,
+      "company_id": 1,
+      "parent_id": 643,
+      "parent_name": "Khoa Thận Nhân Tạo (tầng 11)",
+      "room_code": "KTNT11",
+      "room_id": 643,
+      "room_name": "Khoa Thận Nhân Tạo (tầng 11)"
+    },
+    {
+      "branch_id": 1572,
+      "company_id": 1,
+      "parent_id": 758,
+      "parent_name": "Khoa ICU - Nội tầng 5",
+      "room_code": "KICU",
+      "room_id": 758,
+      "room_name": "Khoa ICU - Nội tầng 5"
+    },
+    {
+      "branch_id": 1572,
+      "company_id": 1,
+      "parent_id": 765,
+      "parent_name": "Khoa Điều Trị (tầng 14)",
+      "room_code": "KDT14",
+      "room_id": 765,
+      "room_name": "Khoa Điều Trị (tầng 14)"
+    },
+    {
+      "branch_id": 1572,
+      "company_id": 1,
+      "parent_id": 809,
+      "parent_name": "Khoa ITS",
+      "room_code": "its",
+      "room_id": 809,
+      "room_name": "Khoa ITS"
+    },
+    {
+      "branch_id": 1572,
+      "company_id": 1,
+      "parent_id": 929,
+      "parent_name": "Khoa Thẩm mỹ Tầng 5 M",
+      "room_code": "ktmt5",
+      "room_id": 929,
+      "room_name": "Khoa Thẩm mỹ Tầng 5 M"
+    },
+    {
+      "branch_id": 1572,
+      "company_id": 1,
+      "parent_id": 1007,
+      "parent_name": "Khoa Điều Trị Ngoại trú",
+      "room_code": "kdtnn",
+      "room_id": 1007,
+      "room_name": "Khoa Điều Trị Ngoại trú"
+    },
+    {
+      "branch_id": 1572,
+      "company_id": 1,
+      "parent_id": 1029,
+      "parent_name": "Khoa lưu viện tầng 4",
+      "room_code": "ptruyent4",
+      "room_id": 1029,
+      "room_name": "Khoa lưu viện tầng 4"
+    },
+    {
+      "branch_id": 1572,
+      "company_id": 1,
+      "parent_id": 1100,
+      "parent_name": "Khoa Điều Trị (tầng 4)",
+      "room_code": "kdtt4",
+      "room_id": 1100,
+      "room_name": "Khoa Điều Trị (tầng 4)"
+    },
+    {
+      "branch_id": 1572,
+      "company_id": 1,
+      "parent_id": 1106,
+      "parent_name": "Khoa lưu viện tầng 2 -P219",
+      "room_code": "klv219",
+      "room_id": 1106,
+      "room_name": "Khoa lưu viện tầng 2 -P219"
+    }
+  ],
+  "status": true
+}

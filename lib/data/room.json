@@ -1,0 +1,3427 @@
+{
+  "app_version": "20200826",
+  "errors": null,
+  "results": [
+    {
+      "parent_id": 809,
+      "parent_name": "Khoa ITS",
+      "room_id": 892,
+      "room_name": "Phòng IT3",
+      "beds": [
+        {
+          "bed_id": 300,
+          "bed_name": "G03"
+        },
+        {
+          "bed_id": 301,
+          "bed_name": "G04"
+        },
+        {
+          "bed_id": 302,
+          "bed_name": "G05"
+        }
+      ]
+    },
+    {
+      "parent_id": 1106,
+      "parent_name": "Khoa lưu viện tầng 2 -P219",
+      "room_id": 1114,
+      "room_name": "Phòng 211 - Điều trị",
+      "beds": [
+        {
+          "bed_id": 2111,
+          "bed_name": "211G1"
+        },
+        {
+          "bed_id": 2112,
+          "bed_name": "211G2"
+        }
+      ]
+    },
+    {
+      "parent_id": 1106,
+      "parent_name": "Khoa lưu viện tầng 2 -P219",
+      "room_id": 1112,
+      "room_name": "Phòng 215 - Điều trị",
+      "beds": [
+        {
+          "bed_id": 2151,
+          "bed_name": "215G1"
+        },
+        {
+          "bed_id": 2152,
+          "bed_name": "215G2"
+        }
+      ]
+    },
+    {
+      "parent_id": 1106,
+      "parent_name": "Khoa lưu viện tầng 2 -P219",
+      "room_id": 1110,
+      "room_name": "Phòng 218 - Điều trị",
+      "beds": [
+        {
+          "bed_id": 2181,
+          "bed_name": "218G1"
+        },
+        {
+          "bed_id": 2182,
+          "bed_name": "218G2"
+        }
+      ]
+    },
+    {
+      "parent_id": 1106,
+      "parent_name": "Khoa lưu viện tầng 2 -P219",
+      "room_id": 1108,
+      "room_name": "Phòng 219 - Điều trị",
+      "beds": [
+        {
+          "bed_id": 2191,
+          "bed_name": "219G1"
+        },
+        {
+          "bed_id": 2192,
+          "bed_name": "219G2"
+        },
+        {
+          "bed_id": 2193,
+          "bed_name": "219G3"
+        },
+        {
+          "bed_id": 2194,
+          "bed_name": "219G4"
+        },
+        {
+          "bed_id": 2195,
+          "bed_name": "219G5"
+        },
+        {
+          "bed_id": 2196,
+          "bed_name": "219G6"
+        },
+        {
+          "bed_id": 2197,
+          "bed_name": "219G7"
+        },
+        {
+          "bed_id": 2198,
+          "bed_name": "219G8"
+        },
+        {
+          "bed_id": 2199,
+          "bed_name": "219G9"
+        },
+        {
+          "bed_id": 21910,
+          "bed_name": "219G10"
+        }
+      ]
+    },
+    {
+      "parent_id": 560,
+      "parent_name": "Khoa Điều Trị - tầng 11 ",
+      "room_id": 1104,
+      "room_name": "Phòng 1115 - Điều trị",
+      "beds": [
+        {
+          "bed_id": 111501,
+          "bed_name": "1115G01"
+        },
+        {
+          "bed_id": 111502,
+          "bed_name": "1115G02"
+        },
+        {
+          "bed_id": 111503,
+          "bed_name": "1115G03"
+        },
+        {
+          "bed_id": 111504,
+          "bed_name": "1115G04"
+        },
+        {
+          "bed_id": 111505,
+          "bed_name": "1115G05"
+        },
+        {
+          "bed_id": 111506,
+          "bed_name": "1115G06"
+        },
+        {
+          "bed_id": 111507,
+          "bed_name": "1115G07"
+        },
+        {
+          "bed_id": 111508,
+          "bed_name": "1115G08"
+        },
+        {
+          "bed_id": 111509,
+          "bed_name": "1115G09"
+        },
+        {
+          "bed_id": 111510,
+          "bed_name": "1115G10"
+        }
+      ]
+    },
+    {
+      "parent_id": 1100,
+      "parent_name": "Khoa Điều Trị - tầng 4 ",
+      "room_id": 1102,
+      "room_name": "Phòng 402 - Điều trị",
+      "beds": [
+        {
+          "bed_id": 4021,
+          "bed_name": "402G1"
+        },
+        {
+          "bed_id": 4022,
+          "bed_name": "402G2"
+        },
+        {
+          "bed_id": 4023,
+          "bed_name": "402G3"
+        },
+        {
+          "bed_id": 4024,
+          "bed_name": "402G4"
+        },
+        {
+          "bed_id": 4025,
+          "bed_name": "402G5"
+        },
+        {
+          "bed_id": 4026,
+          "bed_name": "402G6"
+        },
+        {
+          "bed_id": 4027,
+          "bed_name": "402G7"
+        },
+        {
+          "bed_id": 4028,
+          "bed_name": "402G8"
+        },
+        {
+          "bed_id": 4029,
+          "bed_name": "402G9"
+        },
+        {
+          "bed_id": 40210,
+          "bed_name": "402G10"
+        },
+        {
+          "bed_id": 40211,
+          "bed_name": "402G11"
+        },
+        {
+          "bed_id": 40212,
+          "bed_name": "402G12"
+        },
+        {
+          "bed_id": 40213,
+          "bed_name": "402G13"
+        },
+        {
+          "bed_id": 40214,
+          "bed_name": "402G14"
+        },
+        {
+          "bed_id": 40215,
+          "bed_name": "402G15"
+        },
+        {
+          "bed_id": 40216,
+          "bed_name": "402G16"
+        },
+        {
+          "bed_id": 40217,
+          "bed_name": "402G17"
+        },
+        {
+          "bed_id": 40218,
+          "bed_name": "402G18"
+        },
+        {
+          "bed_id": 40219,
+          "bed_name": "402G19"
+        },
+        {
+          "bed_id": 40220,
+          "bed_name": "402G20"
+        },
+        {
+          "bed_id": 40221,
+          "bed_name": "402G21"
+        },
+        {
+          "bed_id": 40222,
+          "bed_name": "402G22"
+        },
+        {
+          "bed_id": 40223,
+          "bed_name": "402G23"
+        },
+        {
+          "bed_id": 40224,
+          "bed_name": "402G24"
+        },
+        {
+          "bed_id": 40225,
+          "bed_name": "402G25"
+        },
+        {
+          "bed_id": 40226,
+          "bed_name": "402G26"
+        },
+        {
+          "bed_id": 40228,
+          "bed_name": "402G28"
+        },
+        {
+          "bed_id": 40229,
+          "bed_name": "402G29"
+        },
+        {
+          "bed_id": 40230,
+          "bed_name": "402G30"
+        },
+        {
+          "bed_id": 40227,
+          "bed_name": "402G27"
+        }
+      ]
+    },
+    {
+      "parent_id": 461,
+      "parent_name": "Khoa Phẫu Thuật Thủ Thuật",
+      "room_id": 1071,
+      "room_name": "Phòng PT",
+      "beds": [
+        {
+          "bed_id": 1,
+          "bed_name": "1"
+        },
+        {
+          "bed_id": 2,
+          "bed_name": "G2"
+        },
+        {
+          "bed_id": 3,
+          "bed_name": "G3"
+        }
+      ]
+    },
+    {
+      "parent_id": 461,
+      "parent_name": "Khoa Phẫu Thuật Thủ Thuật",
+      "room_id": 703,
+      "room_name": "LB - Phòng 107 - Phòng tiểu phẫu",
+      "beds": [
+        {
+          "bed_id": 1,
+          "bed_name": "1"
+        }
+      ]
+    },
+    {
+      "parent_id": 559,
+      "parent_name": "Khoa Điều Trị - tầng 9 ",
+      "room_id": 1032,
+      "room_name": "Phòng 921 - Điều Trị",
+      "beds": [
+        {
+          "bed_id": 92173,
+          "bed_name": "921GHL"
+        },
+        {
+          "bed_id": 92174,
+          "bed_name": "921GHL1"
+        },
+        {
+          "bed_id": 92175,
+          "bed_name": "921GHL2"
+        },
+        {
+          "bed_id": 92176,
+          "bed_name": "921GHL2"
+        },
+        {
+          "bed_id": 92177,
+          "bed_name": "921GHL3"
+        }
+      ]
+    },
+    {
+      "parent_id": 559,
+      "parent_name": "Khoa Điều Trị - tầng 9 ",
+      "room_id": 1031,
+      "room_name": "Phòng 920 - Điều Trị",
+      "beds": [
+        {
+          "bed_id": 92063,
+          "bed_name": "920GHL"
+        },
+        {
+          "bed_id": 92064,
+          "bed_name": "920GHL1"
+        },
+        {
+          "bed_id": 92065,
+          "bed_name": "920GHL2"
+        },
+        {
+          "bed_id": 92066,
+          "bed_name": "920GHL3"
+        },
+        {
+          "bed_id": 92067,
+          "bed_name": "920GHL4"
+        },
+        {
+          "bed_id": 92068,
+          "bed_name": "920GHL5"
+        },
+        {
+          "bed_id": 92069,
+          "bed_name": "920GHL6"
+        },
+        {
+          "bed_id": 92070,
+          "bed_name": "920GHL7"
+        },
+        {
+          "bed_id": 92071,
+          "bed_name": "920GHL8"
+        },
+        {
+          "bed_id": 92072,
+          "bed_name": "920GHL9"
+        }
+      ]
+    },
+    {
+      "parent_id": 1029,
+      "parent_name": "Khoa lưu viện tầng 4",
+      "room_id": 1030,
+      "room_name": "Phòng lưu viện 401",
+      "beds": [
+        {
+          "bed_id": 4011,
+          "bed_name": "GLV401"
+        },
+        {
+          "bed_id": 4012,
+          "bed_name": "GLV4012"
+        },
+        {
+          "bed_id": 4013,
+          "bed_name": "GLV4013"
+        },
+        {
+          "bed_id": 4014,
+          "bed_name": "GLV4014"
+        },
+        {
+          "bed_id": 4015,
+          "bed_name": "GLV4015"
+        },
+        {
+          "bed_id": 4016,
+          "bed_name": "GLV4016"
+        },
+        {
+          "bed_id": 4017,
+          "bed_name": "GLV4017"
+        },
+        {
+          "bed_id": 4018,
+          "bed_name": "GLV4018"
+        },
+        {
+          "bed_id": 4019,
+          "bed_name": "GLV4019"
+        },
+        {
+          "bed_id": 4010,
+          "bed_name": "GLV4010"
+        },
+        {
+          "bed_id": 4020,
+          "bed_name": "GLV4020"
+        },
+        {
+          "bed_id": 4021,
+          "bed_name": "GLV4021"
+        },
+        {
+          "bed_id": 4022,
+          "bed_name": "GLV4022"
+        },
+        {
+          "bed_id": 4023,
+          "bed_name": "GLV4023"
+        },
+        {
+          "bed_id": 4024,
+          "bed_name": "GLV4024"
+        },
+        {
+          "bed_id": 4025,
+          "bed_name": "GLV4025"
+        },
+        {
+          "bed_id": 4026,
+          "bed_name": "GLV4026"
+        },
+        {
+          "bed_id": 4027,
+          "bed_name": "GLV4027"
+        },
+        {
+          "bed_id": 4028,
+          "bed_name": "GLV4028"
+        },
+        {
+          "bed_id": 4029,
+          "bed_name": "GLV4029"
+        },
+        {
+          "bed_id": 4030,
+          "bed_name": "GLV4030"
+        },
+        {
+          "bed_id": 4031,
+          "bed_name": "GLV4031"
+        },
+        {
+          "bed_id": 4032,
+          "bed_name": "GLV4032"
+        },
+        {
+          "bed_id": 1234,
+          "bed_name": "IT test hệ thống"
+        }
+      ]
+    },
+    {
+      "parent_id": 758,
+      "parent_name": "Khoa ICU - Nội tầng 5",
+      "room_id": 1028,
+      "room_name": "Phòng 522 - Tầng 5 - ICU",
+      "beds": [
+        {
+          "bed_id": 5221,
+          "bed_name": "522G1"
+        }
+      ]
+    },
+    {
+      "parent_id": 758,
+      "parent_name": "Khoa ICU - Nội tầng 5",
+      "room_id": 1027,
+      "room_name": "Phòng 521 - Tầng 5 - ICU",
+      "beds": [
+        {
+          "bed_id": 5211,
+          "bed_name": "521G1"
+        },
+        {
+          "bed_id": 5212,
+          "bed_name": "521G2"
+        }
+      ]
+    },
+    {
+      "parent_id": 758,
+      "parent_name": "Khoa ICU - Nội tầng 5",
+      "room_id": 1026,
+      "room_name": "Phòng 520 - Tầng 5 - ICU",
+      "beds": [
+        {
+          "bed_id": 5201,
+          "bed_name": "520G1"
+        }
+      ]
+    },
+    {
+      "parent_id": 561,
+      "parent_name": "Khoa Điều Trị - tầng 12 ",
+      "room_id": 1006,
+      "room_name": "Phòng 1212 - Điều trị",
+      "beds": [
+        {
+          "bed_id": 121249,
+          "bed_name": "1212G49"
+        },
+        {
+          "bed_id": 121250,
+          "bed_name": "1212G50"
+        },
+        {
+          "bed_id": 121251,
+          "bed_name": "1212N49"
+        },
+        {
+          "bed_id": 121252,
+          "bed_name": "1212N50"
+        }
+      ]
+    },
+    {
+      "parent_id": 560,
+      "parent_name": "Khoa Điều Trị - tầng 11 ",
+      "room_id": 514,
+      "room_name": "Phòng 1105 - Điều trị",
+      "beds": [
+        {
+          "bed_id": 110549,
+          "bed_name": "1105G49"
+        },
+        {
+          "bed_id": 110550,
+          "bed_name": "1105G50"
+        },
+        {
+          "bed_id": 110551,
+          "bed_name": "1105G51"
+        },
+        {
+          "bed_id": 110552,
+          "bed_name": "1105G52"
+        },
+        {
+          "bed_id": 110553,
+          "bed_name": "1105N1"
+        },
+        {
+          "bed_id": 110554,
+          "bed_name": "1105N2"
+        },
+        {
+          "bed_id": 110555,
+          "bed_name": "1105N3"
+        }
+      ]
+    },
+    {
+      "parent_id": 758,
+      "parent_name": "Khoa ICU tầng 5",
+      "room_id": 954,
+      "room_name": "Phòng 519 (Tầng 5) - ICU",
+      "beds": [
+        {
+          "bed_id": 5191,
+          "bed_name": "519G1"
+        },
+        {
+          "bed_id": 5192,
+          "bed_name": "519G2"
+        }
+      ]
+    },
+    {
+      "parent_id": 758,
+      "parent_name": "Khoa ICU tầng 5",
+      "room_id": 953,
+      "room_name": "Phòng 518 (Tầng 5) - ICU",
+      "beds": [
+        {
+          "bed_id": 5181,
+          "bed_name": "518G1"
+        },
+        {
+          "bed_id": 5182,
+          "bed_name": "518G2"
+        }
+      ]
+    },
+    {
+      "parent_id": 758,
+      "parent_name": "Khoa ICU tầng 5",
+      "room_id": 952,
+      "room_name": "Phòng 517 (Tầng 5) - ICU",
+      "beds": [
+        {
+          "bed_id": 5171,
+          "bed_name": "517G1"
+        },
+        {
+          "bed_id": 5172,
+          "bed_name": "517G2"
+        }
+      ]
+    },
+    {
+      "parent_id": 758,
+      "parent_name": "Khoa ICU tầng 5",
+      "room_id": 951,
+      "room_name": "Phòng 516 (Tầng 5) - ICU",
+      "beds": [
+        {
+          "bed_id": 5161,
+          "bed_name": "516G1"
+        },
+        {
+          "bed_id": 5162,
+          "bed_name": "516G2"
+        }
+      ]
+    },
+    {
+      "parent_id": 758,
+      "parent_name": "Khoa ICU tầng 5",
+      "room_id": 950,
+      "room_name": "Phòng 515 (Tầng 5) - ICU",
+      "beds": [
+        {
+          "bed_id": 5151,
+          "bed_name": "515G1"
+        },
+        {
+          "bed_id": 5152,
+          "bed_name": "515G2"
+        }
+      ]
+    },
+    {
+      "parent_id": 758,
+      "parent_name": "Khoa ICU tầng 5",
+      "room_id": 949,
+      "room_name": "Phòng 514 (Tầng 5) - ICU",
+      "beds": [
+        {
+          "bed_id": 5141,
+          "bed_name": "514G1"
+        },
+        {
+          "bed_id": 5142,
+          "bed_name": "514G2"
+        }
+      ]
+    },
+    {
+      "parent_id": 758,
+      "parent_name": "Khoa ICU tầng 5",
+      "room_id": 948,
+      "room_name": "Phòng 513 (Tầng 5) - ICU",
+      "beds": [
+        {
+          "bed_id": 5131,
+          "bed_name": "513G1"
+        },
+        {
+          "bed_id": 5132,
+          "bed_name": "513G2"
+        }
+      ]
+    },
+    {
+      "parent_id": 758,
+      "parent_name": "Khoa ICU tầng 5",
+      "room_id": 947,
+      "room_name": "Phòng 512 (Tầng 5) - ICU",
+      "beds": [
+        {
+          "bed_id": 5121,
+          "bed_name": "512G1"
+        },
+        {
+          "bed_id": 5122,
+          "bed_name": "512G2"
+        }
+      ]
+    },
+    {
+      "parent_id": 758,
+      "parent_name": "Khoa ICU tầng 5",
+      "room_id": 946,
+      "room_name": "Phòng 511 (Tầng 5) - ICU",
+      "beds": [
+        {
+          "bed_id": 5111,
+          "bed_name": "511G1"
+        },
+        {
+          "bed_id": 5112,
+          "bed_name": "511G2"
+        }
+      ]
+    },
+    {
+      "parent_id": 758,
+      "parent_name": "Khoa ICU tầng 5",
+      "room_id": 945,
+      "room_name": "Phòng 510 (Tầng 5) - ICU",
+      "beds": [
+        {
+          "bed_id": 5101,
+          "bed_name": "510G1"
+        },
+        {
+          "bed_id": 5102,
+          "bed_name": "510G2"
+        }
+      ]
+    },
+    {
+      "parent_id": 758,
+      "parent_name": "Khoa ICU tầng 5",
+      "room_id": 944,
+      "room_name": "Phòng 509 (Tầng 5) - ICU",
+      "beds": [
+        {
+          "bed_id": 5091,
+          "bed_name": "509G1"
+        },
+        {
+          "bed_id": 5092,
+          "bed_name": "509G2"
+        }
+      ]
+    },
+    {
+      "parent_id": 560,
+      "parent_name": "Khoa Điều Trị - tầng 11 ",
+      "room_id": 943,
+      "room_name": "Phòng 1114 - Điều trị",
+      "beds": [
+        {
+          "bed_id": 111447,
+          "bed_name": "1114G47"
+        },
+        {
+          "bed_id": 111448,
+          "bed_name": "1114G48"
+        }
+      ]
+    },
+    {
+      "parent_id": 560,
+      "parent_name": "Khoa Điều Trị - tầng 11 ",
+      "room_id": 942,
+      "room_name": "Phòng 1113 - Điều trị",
+      "beds": [
+        {
+          "bed_id": 111345,
+          "bed_name": "1113G45"
+        },
+        {
+          "bed_id": 111346,
+          "bed_name": "1113G46"
+        },
+        {
+          "bed_id": 111352,
+          "bed_name": "1113N1"
+        }
+      ]
+    },
+    {
+      "parent_id": 560,
+      "parent_name": "Khoa Điều Trị - tầng 11 ",
+      "room_id": 941,
+      "room_name": "Phòng 1112 - Điều trị",
+      "beds": [
+        {
+          "bed_id": 111243,
+          "bed_name": "1112G43"
+        },
+        {
+          "bed_id": 111244,
+          "bed_name": "1112G44"
+        }
+      ]
+    },
+    {
+      "parent_id": 561,
+      "parent_name": "Khoa Điều Trị - tầng 12 ",
+      "room_id": 938,
+      "room_name": "Phòng 1216 - Điều trị",
+      "beds": [
+        {
+          "bed_id": 121653,
+          "bed_name": "1216G47"
+        },
+        {
+          "bed_id": 121654,
+          "bed_name": "1216N48"
+        },
+        {
+          "bed_id": 121655,
+          "bed_name": "1216N47"
+        },
+        {
+          "bed_id": 121656,
+          "bed_name": "1216G48"
+        }
+      ]
+    },
+    {
+      "parent_id": 561,
+      "parent_name": "Khoa Điều Trị - tầng 12 ",
+      "room_id": 937,
+      "room_name": "Phòng 1215 - Điều trị",
+      "beds": [
+        {
+          "bed_id": 121549,
+          "bed_name": "1215N45"
+        },
+        {
+          "bed_id": 121550,
+          "bed_name": "1215G46"
+        },
+        {
+          "bed_id": 121551,
+          "bed_name": "1215N45"
+        },
+        {
+          "bed_id": 121552,
+          "bed_name": "1215N46"
+        }
+      ]
+    },
+    {
+      "parent_id": 561,
+      "parent_name": "Khoa Điều Trị - tầng 12 ",
+      "room_id": 936,
+      "room_name": "Phòng 1214- Điều trị",
+      "beds": [
+        {
+          "bed_id": 121445,
+          "bed_name": "1214G43"
+        },
+        {
+          "bed_id": 121446,
+          "bed_name": "1214G44"
+        },
+        {
+          "bed_id": 121447,
+          "bed_name": "1214N43"
+        },
+        {
+          "bed_id": 121448,
+          "bed_name": "1214N44"
+        }
+      ]
+    },
+    {
+      "parent_id": 561,
+      "parent_name": "Khoa Điều Trị - tầng 12 ",
+      "room_id": 935,
+      "room_name": "Phòng 1213 - Điều trị",
+      "beds": [
+        {
+          "bed_id": 121341,
+          "bed_name": "1213G41"
+        },
+        {
+          "bed_id": 121342,
+          "bed_name": "1213G42"
+        },
+        {
+          "bed_id": 121343,
+          "bed_name": "1213N41"
+        },
+        {
+          "bed_id": 121344,
+          "bed_name": "1213N42"
+        }
+      ]
+    },
+    {
+      "parent_id": 559,
+      "parent_name": "Khoa Điều Trị - tầng 9 ",
+      "room_id": 933,
+      "room_name": "Phòng 919 - Điều Trị",
+      "beds": [
+        {
+          "bed_id": 91961,
+          "bed_name": "919G61"
+        },
+        {
+          "bed_id": 91962,
+          "bed_name": "919G62"
+        }
+      ]
+    },
+    {
+      "parent_id": 559,
+      "parent_name": "Khoa Điều Trị - tầng 9 ",
+      "room_id": 932,
+      "room_name": "Phòng 918 - Điều Trị",
+      "beds": [
+        {
+          "bed_id": 91859,
+          "bed_name": "918G59"
+        },
+        {
+          "bed_id": 91860,
+          "bed_name": "918G60"
+        }
+      ]
+    },
+    {
+      "parent_id": 559,
+      "parent_name": "Khoa Điều Trị - tầng 9 ",
+      "room_id": 931,
+      "room_name": "Phòng 917 - Điều Trị",
+      "beds": [
+        {
+          "bed_id": 91757,
+          "bed_name": "917G57"
+        },
+        {
+          "bed_id": 91758,
+          "bed_name": "917G58"
+        },
+        {
+          "bed_id": 917,
+          "bed_name": "58"
+        }
+      ]
+    },
+    {
+      "parent_id": 559,
+      "parent_name": "Khoa Điều Trị - tầng 9 ",
+      "room_id": 930,
+      "room_name": "Phòng 916 - Điều Trị",
+      "beds": [
+        {
+          "bed_id": 91655,
+          "bed_name": "916G55"
+        },
+        {
+          "bed_id": 91656,
+          "bed_name": "916G56"
+        }
+      ]
+    },
+    {
+      "parent_id": 419,
+      "parent_name": "Khoa Điều Trị - tầng 7 ",
+      "room_id": 928,
+      "room_name": "Phòng 719 Điều trị",
+      "beds": [
+        {
+          "bed_id": 81969,
+          "bed_name": "719G52"
+        },
+        {
+          "bed_id": 81970,
+          "bed_name": "719G53"
+        }
+      ]
+    },
+    {
+      "parent_id": 419,
+      "parent_name": "Khoa Điều Trị - tầng 7 ",
+      "room_id": 927,
+      "room_name": "Phòng 718 Điều trị",
+      "beds": [
+        {
+          "bed_id": 81967,
+          "bed_name": "718G58"
+        },
+        {
+          "bed_id": 81968,
+          "bed_name": "718G51"
+        }
+      ]
+    },
+    {
+      "parent_id": 419,
+      "parent_name": "Khoa Điều Trị - tầng 7 ",
+      "room_id": 926,
+      "room_name": "Phòng 717 Điều trị",
+      "beds": [
+        {
+          "bed_id": 81965,
+          "bed_name": "717G48"
+        },
+        {
+          "bed_id": 81966,
+          "bed_name": "717G49"
+        }
+      ]
+    },
+    {
+      "parent_id": 419,
+      "parent_name": "Khoa Điều Trị - tầng 7 ",
+      "room_id": 925,
+      "room_name": "Phòng 716 Điều trị",
+      "beds": [
+        {
+          "bed_id": 81963,
+          "bed_name": "716G46"
+        },
+        {
+          "bed_id": 81964,
+          "bed_name": "716G47"
+        }
+      ]
+    },
+    {
+      "parent_id": 558,
+      "parent_name": "Khoa Điều Trị - tầng 8 ",
+      "room_id": 924,
+      "room_name": "Phòng 819 - Điều trị",
+      "beds": [
+        {
+          "bed_id": 81960,
+          "bed_name": "G60"
+        },
+        {
+          "bed_id": 81961,
+          "bed_name": "G61"
+        },
+        {
+          "bed_id": 81962,
+          "bed_name": "G62"
+        }
+      ]
+    },
+    {
+      "parent_id": 558,
+      "parent_name": "Khoa Điều Trị - tầng 8 ",
+      "room_id": 923,
+      "room_name": "Phòng 818 - Điều trị",
+      "beds": [
+        {
+          "bed_id": 81857,
+          "bed_name": "G57"
+        },
+        {
+          "bed_id": 81858,
+          "bed_name": "G58"
+        },
+        {
+          "bed_id": 81859,
+          "bed_name": "G59"
+        }
+      ]
+    },
+    {
+      "parent_id": 558,
+      "parent_name": "Khoa Điều Trị - tầng 8 ",
+      "room_id": 922,
+      "room_name": "Phòng 817 - Điều trị",
+      "beds": [
+        {
+          "bed_id": 81754,
+          "bed_name": "G54"
+        },
+        {
+          "bed_id": 81755,
+          "bed_name": "G55"
+        },
+        {
+          "bed_id": 81756,
+          "bed_name": "G56"
+        }
+      ]
+    },
+    {
+      "parent_id": 558,
+      "parent_name": "Khoa Điều Trị - tầng 8 ",
+      "room_id": 921,
+      "room_name": "Phòng 816 - Điều trị",
+      "beds": [
+        {
+          "bed_id": 81651,
+          "bed_name": "G51"
+        },
+        {
+          "bed_id": 81652,
+          "bed_name": "G52"
+        },
+        {
+          "bed_id": 81653,
+          "bed_name": "G53"
+        }
+      ]
+    },
+    {
+      "parent_id": 809,
+      "parent_name": "Khoa ITS",
+      "room_id": 890,
+      "room_name": "Phòng IT2",
+      "beds": [
+        {
+          "bed_id": 2,
+          "bed_name": "G02"
+        }
+      ]
+    },
+    {
+      "parent_id": 552,
+      "parent_name": "Khoa Điều trị Nhi - tầng 6 ",
+      "room_id": 916,
+      "room_name": "Phòng 619 - Điều Trị",
+      "beds": [
+        {
+          "bed_id": 61961,
+          "bed_name": "619G1"
+        },
+        {
+          "bed_id": 61962,
+          "bed_name": "619G2"
+        }
+      ]
+    },
+    {
+      "parent_id": 552,
+      "parent_name": "Khoa Điều trị Nhi - tầng 6 ",
+      "room_id": 915,
+      "room_name": "Phòng 618 - Điều Trị",
+      "beds": [
+        {
+          "bed_id": 61859,
+          "bed_name": "618G1"
+        },
+        {
+          "bed_id": 61860,
+          "bed_name": "618G2"
+        },
+        {
+          "bed_id": 61863,
+          "bed_name": "618G1"
+        }
+      ]
+    },
+    {
+      "parent_id": 552,
+      "parent_name": "Khoa Điều trị Nhi - tầng 6 ",
+      "room_id": 914,
+      "room_name": "Phòng 617 - Điều Trị",
+      "beds": [
+        {
+          "bed_id": 61757,
+          "bed_name": "617G1"
+        },
+        {
+          "bed_id": 61758,
+          "bed_name": "617G2"
+        }
+      ]
+    },
+    {
+      "parent_id": 552,
+      "parent_name": "Khoa Điều trị Nhi - tầng 6 ",
+      "room_id": 913,
+      "room_name": "Phòng 616 - Điều Trị",
+      "beds": [
+        {
+          "bed_id": 61655,
+          "bed_name": "616G1"
+        },
+        {
+          "bed_id": 61656,
+          "bed_name": "616G2"
+        }
+      ]
+    },
+    {
+      "parent_id": 544,
+      "parent_name": "Khoa Thẩm Mỹ & Điều Trị tầng 5",
+      "room_id": 912,
+      "room_name": "Phòng 519 (Tầng 5) - Điều Trị",
+      "beds": [
+        {
+          "bed_id": 51953,
+          "bed_name": "519G1"
+        },
+        {
+          "bed_id": 51954,
+          "bed_name": "519G2"
+        },
+        {
+          "bed_id": 51959,
+          "bed_name": "519G3"
+        },
+        {
+          "bed_id": 51960,
+          "bed_name": "519G4"
+        }
+      ]
+    },
+    {
+      "parent_id": 544,
+      "parent_name": "Khoa Thẩm Mỹ & Điều Trị tầng 5",
+      "room_id": 911,
+      "room_name": "Phòng 518 (Tầng 5) - Điều Trị",
+      "beds": [
+        {
+          "bed_id": 51851,
+          "bed_name": "518G1"
+        },
+        {
+          "bed_id": 51852,
+          "bed_name": "518G2"
+        },
+        {
+          "bed_id": 51857,
+          "bed_name": "518G3"
+        },
+        {
+          "bed_id": 51858,
+          "bed_name": "518G4"
+        }
+      ]
+    },
+    {
+      "parent_id": 544,
+      "parent_name": "Khoa Thẩm Mỹ & Điều Trị tầng 5",
+      "room_id": 910,
+      "room_name": "Phòng 517 (Tầng 5) - Điều Trị",
+      "beds": [
+        {
+          "bed_id": 51749,
+          "bed_name": "517G1"
+        },
+        {
+          "bed_id": 51750,
+          "bed_name": "517G2"
+        },
+        {
+          "bed_id": 51755,
+          "bed_name": "517G3"
+        },
+        {
+          "bed_id": 51756,
+          "bed_name": "517G4"
+        }
+      ]
+    },
+    {
+      "parent_id": 544,
+      "parent_name": "Khoa Thẩm Mỹ & Điều Trị tầng 5",
+      "room_id": 909,
+      "room_name": "Phòng 516 (Tầng 5) - Điều Trị",
+      "beds": [
+        {
+          "bed_id": 51647,
+          "bed_name": "516G1"
+        },
+        {
+          "bed_id": 51648,
+          "bed_name": "516G2"
+        },
+        {
+          "bed_id": 5163,
+          "bed_name": "516G3"
+        },
+        {
+          "bed_id": 5164,
+          "bed_name": "516G4"
+        }
+      ]
+    },
+    {
+      "parent_id": 809,
+      "parent_name": "Khoa ITS",
+      "room_id": 811,
+      "room_name": "Phòng IT1",
+      "beds": [
+        {
+          "bed_id": 1,
+          "bed_name": "test 1"
+        },
+        {
+          "bed_id": 9,
+          "bed_name": "IT test hệ thống"
+        },
+        {
+          "bed_id": 928,
+          "bed_name": "IT Test"
+        },
+        {
+          "bed_id": 923,
+          "bed_name": "G1"
+        },
+        {
+          "bed_id": 925,
+          "bed_name": "G02"
+        },
+        {
+          "bed_id": 926,
+          "bed_name": "G03"
+        },
+        {
+          "bed_id": 100,
+          "bed_name": "G04"
+        },
+        {
+          "bed_id": 921,
+          "bed_name": "G05"
+        },
+        {
+          "bed_id": 920,
+          "bed_name": "G06"
+        },
+        {
+          "bed_id": 919,
+          "bed_name": "G07"
+        },
+        {
+          "bed_id": 918,
+          "bed_name": "G08"
+        },
+        {
+          "bed_id": 917,
+          "bed_name": "G09"
+        },
+        {
+          "bed_id": 916,
+          "bed_name": "G10"
+        },
+        {
+          "bed_id": 915,
+          "bed_name": "G11"
+        },
+        {
+          "bed_id": 1231,
+          "bed_name": "giường nc ngoài"
+        }
+      ]
+    },
+    {
+      "parent_id": 544,
+      "parent_name": "Khoa Thẩm Mỹ & Điều Trị tầng 5",
+      "room_id": 777,
+      "room_name": "Phòng 515 (Tầng 5) - Điều Trị",
+      "beds": [
+        {
+          "bed_id": 5151,
+          "bed_name": "515G1"
+        },
+        {
+          "bed_id": 5152,
+          "bed_name": "515G2"
+        },
+        {
+          "bed_id": 5153,
+          "bed_name": "515G3"
+        },
+        {
+          "bed_id": 5154,
+          "bed_name": "515G4"
+        }
+      ]
+    },
+    {
+      "parent_id": 544,
+      "parent_name": "Khoa Thẩm Mỹ & Điều Trị tầng 5",
+      "room_id": 776,
+      "room_name": "Phòng 514 (Tầng 5) - Điều Trị",
+      "beds": [
+        {
+          "bed_id": 5141,
+          "bed_name": "514G1"
+        },
+        {
+          "bed_id": 5142,
+          "bed_name": "514G2"
+        },
+        {
+          "bed_id": 5143,
+          "bed_name": "514G3"
+        },
+        {
+          "bed_id": 5144,
+          "bed_name": "514G4"
+        }
+      ]
+    },
+    {
+      "parent_id": 544,
+      "parent_name": "Khoa Thẩm Mỹ & Điều Trị tầng 5",
+      "room_id": 775,
+      "room_name": "Phòng 513 (Tầng 5) - Điều Trị",
+      "beds": [
+        {
+          "bed_id": 5131,
+          "bed_name": "513G1"
+        },
+        {
+          "bed_id": 5132,
+          "bed_name": "513G2"
+        },
+        {
+          "bed_id": 5133,
+          "bed_name": "513G3"
+        },
+        {
+          "bed_id": 5134,
+          "bed_name": "513G4"
+        }
+      ]
+    },
+    {
+      "parent_id": 861,
+      "parent_name": "Khoa Điều Trị - Tầng 4 ",
+      "room_id": 862,
+      "room_name": "Phòng 400 - Điều Trị",
+      "beds": [
+        {
+          "bed_id": 4001,
+          "bed_name": "400G1"
+        },
+        {
+          "bed_id": 4002,
+          "bed_name": "400G2"
+        },
+        {
+          "bed_id": 4009,
+          "bed_name": "400G9"
+        },
+        {
+          "bed_id": 40010,
+          "bed_name": "400G10"
+        },
+        {
+          "bed_id": 40011,
+          "bed_name": "400G11"
+        },
+        {
+          "bed_id": 40012,
+          "bed_name": "400G12"
+        },
+        {
+          "bed_id": 40013,
+          "bed_name": "400G13"
+        },
+        {
+          "bed_id": 4003,
+          "bed_name": "400G3"
+        },
+        {
+          "bed_id": 4004,
+          "bed_name": "400G4"
+        },
+        {
+          "bed_id": 4005,
+          "bed_name": "400G5"
+        },
+        {
+          "bed_id": 4006,
+          "bed_name": "400G6"
+        },
+        {
+          "bed_id": 4007,
+          "bed_name": "400G7"
+        },
+        {
+          "bed_id": 4008,
+          "bed_name": "400G8"
+        }
+      ]
+    },
+    {
+      "parent_id": 544,
+      "parent_name": "Khoa Thẩm Mỹ & Điều Trị tầng 5",
+      "room_id": 774,
+      "room_name": "Phòng 512 (Tầng 5) - Điều Trị",
+      "beds": [
+        {
+          "bed_id": 5121,
+          "bed_name": "512G1"
+        },
+        {
+          "bed_id": 5132,
+          "bed_name": "512G2"
+        },
+        {
+          "bed_id": 5123,
+          "bed_name": "512G3"
+        },
+        {
+          "bed_id": 5124,
+          "bed_name": "512G4"
+        }
+      ]
+    },
+    {
+      "parent_id": 544,
+      "parent_name": "Khoa Thẩm Mỹ & Điều Trị tầng 5",
+      "room_id": 847,
+      "room_name": "Phòng 511 (Tầng 5) - Điều Trị",
+      "beds": [
+        {
+          "bed_id": 5111,
+          "bed_name": "511G1"
+        },
+        {
+          "bed_id": 5112,
+          "bed_name": "511G2"
+        },
+        {
+          "bed_id": 5113,
+          "bed_name": "511G3"
+        },
+        {
+          "bed_id": 5114,
+          "bed_name": "511G4"
+        }
+      ]
+    },
+    {
+      "parent_id": 544,
+      "parent_name": "Khoa Thẩm Mỹ & Điều Trị tầng 5",
+      "room_id": 846,
+      "room_name": "Phòng 510 (Tầng 5) - Điều Trị",
+      "beds": [
+        {
+          "bed_id": 5101,
+          "bed_name": "510G1"
+        },
+        {
+          "bed_id": 5102,
+          "bed_name": "510G2"
+        },
+        {
+          "bed_id": 5103,
+          "bed_name": "510G3"
+        },
+        {
+          "bed_id": 5104,
+          "bed_name": "510G4"
+        }
+      ]
+    },
+    {
+      "parent_id": 544,
+      "parent_name": "Khoa Thẩm Mỹ & Điều Trị tầng 5",
+      "room_id": 845,
+      "room_name": "Phòng 509 (Tầng 5) - Điều Trị",
+      "beds": [
+        {
+          "bed_id": 5091,
+          "bed_name": "509G1"
+        },
+        {
+          "bed_id": 5092,
+          "bed_name": "509G2"
+        },
+        {
+          "bed_id": 5093,
+          "bed_name": "509G3"
+        },
+        {
+          "bed_id": 5094,
+          "bed_name": "509G4"
+        }
+      ]
+    },
+    {
+      "parent_id": 559,
+      "parent_name": "Khoa Điều Trị - tầng 9 ",
+      "room_id": 859,
+      "room_name": "Phòng 915 - Điều Trị",
+      "beds": [
+        {
+          "bed_id": 91552,
+          "bed_name": "915G52"
+        },
+        {
+          "bed_id": 91554,
+          "bed_name": "915G54"
+        }
+      ]
+    },
+    {
+      "parent_id": 559,
+      "parent_name": "Khoa Điều Trị - tầng 9 ",
+      "room_id": 858,
+      "room_name": "Phòng 914 - Điều Trị",
+      "beds": [
+        {
+          "bed_id": 91448,
+          "bed_name": "914G48"
+        },
+        {
+          "bed_id": 91450,
+          "bed_name": "914G50"
+        }
+      ]
+    },
+    {
+      "parent_id": 559,
+      "parent_name": "Khoa Điều Trị - tầng 9 ",
+      "room_id": 856,
+      "room_name": "Phòng 913 - Điều Trị",
+      "beds": [
+        {
+          "bed_id": 91346,
+          "bed_name": "913G46"
+        },
+        {
+          "bed_id": 91363,
+          "bed_name": "913G63"
+        }
+      ]
+    },
+    {
+      "parent_id": 559,
+      "parent_name": "Khoa Điều Trị - tầng 9 ",
+      "room_id": 854,
+      "room_name": "Phòng 912 - Điều Trị",
+      "beds": [
+        {
+          "bed_id": 91242,
+          "bed_name": "912G42"
+        }
+      ]
+    },
+    {
+      "parent_id": 558,
+      "parent_name": "Khoa Điều Trị - tầng 8 ",
+      "room_id": 852,
+      "room_name": "Phòng 815 - Điều Trị",
+      "beds": [
+        {
+          "bed_id": 81547,
+          "bed_name": "815G47"
+        },
+        {
+          "bed_id": 81548,
+          "bed_name": "815G48"
+        },
+        {
+          "bed_id": 81550,
+          "bed_name": "815G50"
+        }
+      ]
+    },
+    {
+      "parent_id": 558,
+      "parent_name": "Khoa Điều Trị - tầng 8 ",
+      "room_id": 851,
+      "room_name": "Phòng 814 - Điều Trị",
+      "beds": [
+        {
+          "bed_id": 81445,
+          "bed_name": "814G45"
+        },
+        {
+          "bed_id": 81446,
+          "bed_name": "814G46"
+        }
+      ]
+    },
+    {
+      "parent_id": 558,
+      "parent_name": "Khoa Điều Trị - tầng 8 ",
+      "room_id": 850,
+      "room_name": "Phòng 813 - Điều Trị",
+      "beds": [
+        {
+          "bed_id": 81343,
+          "bed_name": "813G43"
+        },
+        {
+          "bed_id": 81344,
+          "bed_name": "813G44"
+        }
+      ]
+    },
+    {
+      "parent_id": 558,
+      "parent_name": "Khoa Điều Trị - tầng 8 ",
+      "room_id": 849,
+      "room_name": "Phòng 812 - Điều Trị",
+      "beds": [
+        {
+          "bed_id": 81241,
+          "bed_name": "812G41"
+        },
+        {
+          "bed_id": 81242,
+          "bed_name": "812G42"
+        }
+      ]
+    },
+    {
+      "parent_id": 419,
+      "parent_name": "Khoa Điều Trị - tầng 7 ",
+      "room_id": 785,
+      "room_name": "Phòng 715 - Điều Trị",
+      "beds": [
+        {
+          "bed_id": 71544,
+          "bed_name": "715G44"
+        },
+        {
+          "bed_id": 71545,
+          "bed_name": "715G45"
+        }
+      ]
+    },
+    {
+      "parent_id": 419,
+      "parent_name": "Khoa Điều Trị - tầng 7 ",
+      "room_id": 784,
+      "room_name": "Phòng 714 - Điều Trị",
+      "beds": [
+        {
+          "bed_id": 71443,
+          "bed_name": "714G43"
+        },
+        {
+          "bed_id": 81971,
+          "bed_name": "714G54"
+        }
+      ]
+    },
+    {
+      "parent_id": 419,
+      "parent_name": "Khoa Điều Trị - tầng 7 ",
+      "room_id": 783,
+      "room_name": "Phòng 713 - Điều Trị",
+      "beds": [
+        {
+          "bed_id": 71342,
+          "bed_name": "713G42"
+        }
+      ]
+    },
+    {
+      "parent_id": 419,
+      "parent_name": "Khoa Điều Trị - tầng 7 ",
+      "room_id": 782,
+      "room_name": "Phòng 712 - Điều Trị",
+      "beds": [
+        {
+          "bed_id": 71241,
+          "bed_name": "712G41"
+        }
+      ]
+    },
+    {
+      "parent_id": 552,
+      "parent_name": "Khoa Điều trị Nhi - tầng 6 ",
+      "room_id": 781,
+      "room_name": "Phòng 615 - Điều Trị",
+      "beds": [
+        {
+          "bed_id": 61545,
+          "bed_name": "615G45"
+        },
+        {
+          "bed_id": 61546,
+          "bed_name": "615G46"
+        }
+      ]
+    },
+    {
+      "parent_id": 552,
+      "parent_name": "Khoa Điều trị Nhi - tầng 6 ",
+      "room_id": 780,
+      "room_name": "Phòng 614 - Điều Trị",
+      "beds": [
+        {
+          "bed_id": 61443,
+          "bed_name": "614G43"
+        },
+        {
+          "bed_id": 61444,
+          "bed_name": "614G44"
+        },
+        {
+          "bed_id": 61464,
+          "bed_name": "614G64"
+        }
+      ]
+    },
+    {
+      "parent_id": 552,
+      "parent_name": "Khoa Điều trị Nhi - tầng 6 ",
+      "room_id": 779,
+      "room_name": "Phòng 613 - Điều Trị",
+      "beds": [
+        {
+          "bed_id": 61342,
+          "bed_name": "613G42"
+        },
+        {
+          "bed_id": 61362,
+          "bed_name": "613G62"
+        },
+        {
+          "bed_id": 61363,
+          "bed_name": "613G63"
+        }
+      ]
+    },
+    {
+      "parent_id": 552,
+      "parent_name": "Khoa Điều trị Nhi - tầng 6 ",
+      "room_id": 778,
+      "room_name": "Phòng 612 - Điều Trị",
+      "beds": [
+        {
+          "bed_id": 61241,
+          "bed_name": "612G41"
+        },
+        {
+          "bed_id": 61240,
+          "bed_name": "612G40"
+        },
+        {
+          "bed_id": 61261,
+          "bed_name": "61G261"
+        }
+      ]
+    },
+    {
+      "parent_id": 758,
+      "parent_name": "Khoa ICU",
+      "room_id": 762,
+      "room_name": "Phòng ICU 4",
+      "beds": [
+        {
+          "bed_id": 2194,
+          "bed_name": "219G4"
+        }
+      ]
+    },
+    {
+      "parent_id": 758,
+      "parent_name": "Khoa ICU",
+      "room_id": 761,
+      "room_name": "Phòng ICU 3",
+      "beds": [
+        {
+          "bed_id": 2193,
+          "bed_name": "219G3"
+        }
+      ]
+    },
+    {
+      "parent_id": 758,
+      "parent_name": "Khoa ICU",
+      "room_id": 760,
+      "room_name": "Phòng ICU 2",
+      "beds": [
+        {
+          "bed_id": 2192,
+          "bed_name": "219G2"
+        }
+      ]
+    },
+    {
+      "parent_id": 758,
+      "parent_name": "Khoa ICU",
+      "room_id": 759,
+      "room_name": "Phòng ICU 1",
+      "beds": [
+        {
+          "bed_id": 2191,
+          "bed_name": "219G1"
+        }
+      ]
+    },
+    {
+      "parent_id": 575,
+      "parent_name": "Khoa Điều Trị - tầng 13 ",
+      "room_id": 532,
+      "room_name": "Phòng VIP5  (Tầng 13) - Điều trị",
+      "beds": [
+        {
+          "bed_id": 1351,
+          "bed_name": "13VIP5G1"
+        },
+        {
+          "bed_id": 1352,
+          "bed_name": "13VIP5G2"
+        },
+        {
+          "bed_id": 1353,
+          "bed_name": "13VIP5G3"
+        },
+        {
+          "bed_id": 1354,
+          "bed_name": "13VIP5G4"
+        },
+        {
+          "bed_id": 1355,
+          "bed_name": "13VIP5G5"
+        }
+      ]
+    },
+    {
+      "parent_id": 575,
+      "parent_name": "Khoa Điều Trị - tầng 13 ",
+      "room_id": 531,
+      "room_name": "Phòng VIP4 (Tầng 13) - Điều trị",
+      "beds": [
+        {
+          "bed_id": 1341,
+          "bed_name": "13VIP4G1"
+        },
+        {
+          "bed_id": 1342,
+          "bed_name": "13VIP4G2"
+        }
+      ]
+    },
+    {
+      "parent_id": 575,
+      "parent_name": "Khoa Điều Trị - tầng 13 ",
+      "room_id": 530,
+      "room_name": "Phòng VIP1 (Tầng 13) - Điều trị",
+      "beds": [
+        {
+          "bed_id": 1311,
+          "bed_name": "13VIP1G1"
+        },
+        {
+          "bed_id": 1312,
+          "bed_name": "13VIP1G2"
+        },
+        {
+          "bed_id": 1313,
+          "bed_name": "13VIP1G3"
+        },
+        {
+          "bed_id": 1314,
+          "bed_name": "13VIP1G4"
+        },
+        {
+          "bed_id": 1315,
+          "bed_name": "13VIP1G5"
+        },
+        {
+          "bed_id": 1316,
+          "bed_name": "13VIP1G6"
+        },
+        {
+          "bed_id": 1317,
+          "bed_name": "13VIP1G7"
+        },
+        {
+          "bed_id": 1318,
+          "bed_name": "13VIP1G8"
+        }
+      ]
+    },
+    {
+      "parent_id": 561,
+      "parent_name": "Khoa Điều Trị - tầng 12 ",
+      "room_id": 529,
+      "room_name": "Phòng 1210 - Điều trị",
+      "beds": [
+        {
+          "bed_id": 121034,
+          "bed_name": "1210G34"
+        },
+        {
+          "bed_id": 121033,
+          "bed_name": "1210N34"
+        }
+      ]
+    },
+    {
+      "parent_id": 561,
+      "parent_name": "Khoa Điều Trị - tầng 12 ",
+      "room_id": 528,
+      "room_name": "Phòng 1209 - Điều trị",
+      "beds": [
+        {
+          "bed_id": 120930,
+          "bed_name": "1209G30"
+        },
+        {
+          "bed_id": 120932,
+          "bed_name": "1209G33"
+        },
+        {
+          "bed_id": 120929,
+          "bed_name": "1209N30"
+        },
+        {
+          "bed_id": 120928,
+          "bed_name": "1209N32"
+        }
+      ]
+    },
+    {
+      "parent_id": 561,
+      "parent_name": "Khoa Điều Trị - tầng 12 ",
+      "room_id": 527,
+      "room_name": "Phòng 1208 - Điều trị",
+      "beds": [
+        {
+          "bed_id": 120826,
+          "bed_name": "1208G28"
+        },
+        {
+          "bed_id": 120828,
+          "bed_name": "1208N28"
+        },
+        {
+          "bed_id": 120851,
+          "bed_name": "1208N51"
+        },
+        {
+          "bed_id": 120852,
+          "bed_name": "1208G52"
+        }
+      ]
+    },
+    {
+      "parent_id": 561,
+      "parent_name": "Khoa Điều Trị - tầng 12 ",
+      "room_id": 526,
+      "room_name": "Phòng 1207 - Điều trị",
+      "beds": [
+        {
+          "bed_id": 120722,
+          "bed_name": "1207G22"
+        },
+        {
+          "bed_id": 120724,
+          "bed_name": "1207N22"
+        },
+        {
+          "bed_id": 120721,
+          "bed_name": "1207G23"
+        },
+        {
+          "bed_id": 120720,
+          "bed_name": "1207N24"
+        }
+      ]
+    },
+    {
+      "parent_id": 561,
+      "parent_name": "Khoa Điều Trị - tầng 12 ",
+      "room_id": 525,
+      "room_name": "Phòng 1206 - Điều trị",
+      "beds": [
+        {
+          "bed_id": 120618,
+          "bed_name": "1206G18"
+        },
+        {
+          "bed_id": 120620,
+          "bed_name": "1206G20"
+        },
+        {
+          "bed_id": 120617,
+          "bed_name": "1206N18"
+        },
+        {
+          "bed_id": 120616,
+          "bed_name": "1206N20"
+        }
+      ]
+    },
+    {
+      "parent_id": 561,
+      "parent_name": "Khoa Điều Trị - tầng 12 ",
+      "room_id": 524,
+      "room_name": "Phòng 1205 - Điều trị",
+      "beds": [
+        {
+          "bed_id": 120514,
+          "bed_name": "1205G14"
+        },
+        {
+          "bed_id": 120516,
+          "bed_name": "1205G16"
+        },
+        {
+          "bed_id": 120515,
+          "bed_name": "1205G15"
+        },
+        {
+          "bed_id": 120513,
+          "bed_name": "1205N14"
+        },
+        {
+          "bed_id": 120512,
+          "bed_name": "1205N15"
+        },
+        {
+          "bed_id": 120511,
+          "bed_name": "1205N16"
+        },
+        {
+          "bed_id": 12051,
+          "bed_name": "1205N01"
+        },
+        {
+          "bed_id": 12052,
+          "bed_name": "1205NDP2"
+        }
+      ]
+    },
+    {
+      "parent_id": 561,
+      "parent_name": "Khoa Điều Trị - tầng 12 ",
+      "room_id": 523,
+      "room_name": "Phòng 1204 - Điều trị",
+      "beds": [
+        {
+          "bed_id": 120410,
+          "bed_name": "1204G10"
+        },
+        {
+          "bed_id": 120412,
+          "bed_name": "1204G12"
+        },
+        {
+          "bed_id": 120211,
+          "bed_name": "1204N11"
+        },
+        {
+          "bed_id": 120409,
+          "bed_name": "1204N10"
+        },
+        {
+          "bed_id": 120408,
+          "bed_name": "1204N12"
+        },
+        {
+          "bed_id": 12041,
+          "bed_name": "1204G14"
+        },
+        {
+          "bed_id": 12042,
+          "bed_name": "1204G2"
+        },
+        {
+          "bed_id": 1,
+          "bed_name": "1204N11"
+        }
+      ]
+    },
+    {
+      "parent_id": 561,
+      "parent_name": "Khoa Điều Trị - tầng 12 ",
+      "room_id": 522,
+      "room_name": "Phòng 1203 - Điều trị",
+      "beds": [
+        {
+          "bed_id": 12036,
+          "bed_name": "1203G6"
+        },
+        {
+          "bed_id": 12038,
+          "bed_name": "1203G8"
+        },
+        {
+          "bed_id": 12037,
+          "bed_name": "1203G7"
+        },
+        {
+          "bed_id": 12035,
+          "bed_name": "1203N6"
+        },
+        {
+          "bed_id": 12034,
+          "bed_name": "1203N7"
+        },
+        {
+          "bed_id": 12033,
+          "bed_name": "1203N8"
+        },
+        {
+          "bed_id": 12031,
+          "bed_name": "1203N6"
+        },
+        {
+          "bed_id": 12032,
+          "bed_name": "1203G8"
+        }
+      ]
+    },
+    {
+      "parent_id": 561,
+      "parent_name": "Khoa Điều Trị - tầng 12 ",
+      "room_id": 521,
+      "room_name": "Phòng 1202 - Điều trị",
+      "beds": [
+        {
+          "bed_id": 12022,
+          "bed_name": "1202G3"
+        },
+        {
+          "bed_id": 12024,
+          "bed_name": "1202G4"
+        },
+        {
+          "bed_id": 12023,
+          "bed_name": "1202G3"
+        },
+        {
+          "bed_id": 12027,
+          "bed_name": "1202G7"
+        },
+        {
+          "bed_id": 12021,
+          "bed_name": "1202N2"
+        },
+        {
+          "bed_id": 12020,
+          "bed_name": "1202N3"
+        },
+        {
+          "bed_id": 12019,
+          "bed_name": "1202G77"
+        },
+        {
+          "bed_id": 12018,
+          "bed_name": "1202N7"
+        },
+        {
+          "bed_id": 12017,
+          "bed_name": "1202G5"
+        },
+        {
+          "bed_id": 12016,
+          "bed_name": "1202NDP2"
+        }
+      ]
+    },
+    {
+      "parent_id": 561,
+      "parent_name": "Khoa Điều Trị - tầng 12 ",
+      "room_id": 520,
+      "room_name": "Phòng 1211 - Điều trị",
+      "beds": [
+        {
+          "bed_id": 121138,
+          "bed_name": "1211G38"
+        },
+        {
+          "bed_id": 121139,
+          "bed_name": "1211N38"
+        }
+      ]
+    },
+    {
+      "parent_id": 560,
+      "parent_name": "Khoa Điều Trị - tầng 11 ",
+      "room_id": 519,
+      "room_name": "Phòng 1110 - Điều trị",
+      "beds": [
+        {
+          "bed_id": 111036,
+          "bed_name": "1110G36"
+        },
+        {
+          "bed_id": 111038,
+          "bed_name": "1110G38"
+        },
+        {
+          "bed_id": 111055,
+          "bed_name": "1110N3"
+        }
+      ]
+    },
+    {
+      "parent_id": 560,
+      "parent_name": "Khoa Điều Trị - tầng 11 ",
+      "room_id": 518,
+      "room_name": "Phòng 1109 - Điều trị",
+      "beds": [
+        {
+          "bed_id": 110930,
+          "bed_name": "1109G30"
+        },
+        {
+          "bed_id": 110932,
+          "bed_name": "1109G32"
+        }
+      ]
+    },
+    {
+      "parent_id": 560,
+      "parent_name": "Khoa Điều Trị - tầng 11 ",
+      "room_id": 517,
+      "room_name": "Phòng 1108 - Điều trị",
+      "beds": [
+        {
+          "bed_id": 110826,
+          "bed_name": "1108G26"
+        },
+        {
+          "bed_id": 110828,
+          "bed_name": "1108G28"
+        },
+        {
+          "bed_id": 110827,
+          "bed_name": "1108G27"
+        },
+        {
+          "bed_id": 110854,
+          "bed_name": "1108N2"
+        }
+      ]
+    },
+    {
+      "parent_id": 560,
+      "parent_name": "Khoa Điều Trị - tầng 11 ",
+      "room_id": 516,
+      "room_name": "Phòng 1107 - Điều trị",
+      "beds": [
+        {
+          "bed_id": 110722,
+          "bed_name": "1107G22"
+        },
+        {
+          "bed_id": 110724,
+          "bed_name": "1107G24"
+        },
+        {
+          "bed_id": 110756,
+          "bed_name": "1107N4"
+        },
+        {
+          "bed_id": 110757,
+          "bed_name": "1107N5"
+        }
+      ]
+    },
+    {
+      "parent_id": 560,
+      "parent_name": "Khoa Điều Trị - tầng 11 ",
+      "room_id": 515,
+      "room_name": "Phòng 1106 - Điều trị",
+      "beds": [
+        {
+          "bed_id": 110618,
+          "bed_name": "1106G18"
+        },
+        {
+          "bed_id": 110620,
+          "bed_name": "1106G20"
+        },
+        {
+          "bed_id": 110621,
+          "bed_name": "1106G21"
+        },
+        {
+          "bed_id": 110622,
+          "bed_name": "1106G22"
+        }
+      ]
+    },
+    {
+      "parent_id": 560,
+      "parent_name": "Khoa Điều Trị - tầng 11 ",
+      "room_id": 513,
+      "room_name": "Phòng 1104 - Điều trị",
+      "beds": [
+        {
+          "bed_id": 110410,
+          "bed_name": "1104G10"
+        },
+        {
+          "bed_id": 110412,
+          "bed_name": "1104G12"
+        },
+        {
+          "bed_id": 110411,
+          "bed_name": "1104G11"
+        },
+        {
+          "bed_id": 110413,
+          "bed_name": "1104G13"
+        },
+        {
+          "bed_id": 110414,
+          "bed_name": "1104G14"
+        }
+      ]
+    },
+    {
+      "parent_id": 560,
+      "parent_name": "Khoa Điều Trị - tầng 11 ",
+      "room_id": 512,
+      "room_name": "Phòng 1103 - Điều trị",
+      "beds": [
+        {
+          "bed_id": 11036,
+          "bed_name": "1103G6"
+        },
+        {
+          "bed_id": 11038,
+          "bed_name": "1103G8"
+        },
+        {
+          "bed_id": 11037,
+          "bed_name": "1103G7"
+        },
+        {
+          "bed_id": 11039,
+          "bed_name": "1103G9"
+        },
+        {
+          "bed_id": 110310,
+          "bed_name": "1103G10"
+        }
+      ]
+    },
+    {
+      "parent_id": 560,
+      "parent_name": "Khoa Điều Trị - tầng 11 ",
+      "room_id": 511,
+      "room_name": "Phòng 1102 - Điều trị",
+      "beds": [
+        {
+          "bed_id": 11022,
+          "bed_name": "1102G2"
+        },
+        {
+          "bed_id": 11024,
+          "bed_name": "1102G4"
+        },
+        {
+          "bed_id": 11023,
+          "bed_name": "1102G3"
+        },
+        {
+          "bed_id": 11021,
+          "bed_name": "1102G1"
+        }
+      ]
+    },
+    {
+      "parent_id": 560,
+      "parent_name": "Khoa Điều Trị - tầng 11 ",
+      "room_id": 510,
+      "room_name": "Phòng 1111 - Điều trị",
+      "beds": [
+        {
+          "bed_id": 111140,
+          "bed_name": "1111G40"
+        },
+        {
+          "bed_id": 111142,
+          "bed_name": "1111G42"
+        }
+      ]
+    },
+    {
+      "parent_id": 559,
+      "parent_name": "Khoa Điều Trị - tầng 9 ",
+      "room_id": 506,
+      "room_name": "Phòng 910 - Điều trị",
+      "beds": [
+        {
+          "bed_id": 91034,
+          "bed_name": "910G34"
+        },
+        {
+          "bed_id": 91036,
+          "bed_name": "910G36"
+        }
+      ]
+    },
+    {
+      "parent_id": 559,
+      "parent_name": "Khoa Điều Trị - tầng 9 ",
+      "room_id": 505,
+      "room_name": "Phòng 909 - Điều trị",
+      "beds": [
+        {
+          "bed_id": 90930,
+          "bed_name": "909G30"
+        }
+      ]
+    },
+    {
+      "parent_id": 559,
+      "parent_name": "Khoa Điều Trị - tầng 9 ",
+      "room_id": 504,
+      "room_name": "Phòng 908 - Điều trị",
+      "beds": [
+        {
+          "bed_id": 90826,
+          "bed_name": "908G26"
+        },
+        {
+          "bed_id": 90828,
+          "bed_name": "908G28"
+        }
+      ]
+    },
+    {
+      "parent_id": 559,
+      "parent_name": "Khoa Điều Trị - tầng 9 ",
+      "room_id": 503,
+      "room_name": "Phòng 907 - Điều trị",
+      "beds": [
+        {
+          "bed_id": 90722,
+          "bed_name": "907G22"
+        },
+        {
+          "bed_id": 90724,
+          "bed_name": "907G24"
+        },
+        {
+          "bed_id": 90723,
+          "bed_name": "907G23"
+        },
+        {
+          "bed_id": 90726,
+          "bed_name": "907G26"
+        },
+        {
+          "bed_id": 90725,
+          "bed_name": "907G25"
+        }
+      ]
+    },
+    {
+      "parent_id": 559,
+      "parent_name": "Khoa Điều Trị - tầng 9 ",
+      "room_id": 502,
+      "room_name": "Phòng 906 - Điều trị",
+      "beds": [
+        {
+          "bed_id": 90618,
+          "bed_name": "906G18"
+        },
+        {
+          "bed_id": 90620,
+          "bed_name": "906G20"
+        },
+        {
+          "bed_id": 90619,
+          "bed_name": "906G19"
+        }
+      ]
+    },
+    {
+      "parent_id": 559,
+      "parent_name": "Khoa Điều Trị - tầng 9 ",
+      "room_id": 501,
+      "room_name": "Phòng 905 - Điều trị",
+      "beds": [
+        {
+          "bed_id": 90514,
+          "bed_name": "905G14"
+        },
+        {
+          "bed_id": 90516,
+          "bed_name": "905G16"
+        },
+        {
+          "bed_id": 90515,
+          "bed_name": "905G15"
+        },
+        {
+          "bed_id": 90513,
+          "bed_name": "905G13"
+        }
+      ]
+    },
+    {
+      "parent_id": 559,
+      "parent_name": "Khoa Điều Trị - tầng 9 ",
+      "room_id": 500,
+      "room_name": "Phòng 904 - Điều trị",
+      "beds": [
+        {
+          "bed_id": 90410,
+          "bed_name": "904G10"
+        },
+        {
+          "bed_id": 90412,
+          "bed_name": "904G10"
+        },
+        {
+          "bed_id": 90411,
+          "bed_name": "904G11"
+        },
+        {
+          "bed_id": 9049,
+          "bed_name": "904G9"
+        }
+      ]
+    },
+    {
+      "parent_id": 559,
+      "parent_name": "Khoa Điều Trị - tầng 9 ",
+      "room_id": 499,
+      "room_name": "Phòng 903 - Điều trị",
+      "beds": [
+        {
+          "bed_id": 9036,
+          "bed_name": "903G6"
+        },
+        {
+          "bed_id": 9038,
+          "bed_name": "903G8"
+        },
+        {
+          "bed_id": 9037,
+          "bed_name": "903G7"
+        }
+      ]
+    },
+    {
+      "parent_id": 559,
+      "parent_name": "Khoa Điều Trị - tầng 9 ",
+      "room_id": 498,
+      "room_name": "Phòng 902 - Điều trị",
+      "beds": [
+        {
+          "bed_id": 9022,
+          "bed_name": "902G2"
+        },
+        {
+          "bed_id": 9021,
+          "bed_name": "902G1"
+        },
+        {
+          "bed_id": 9023,
+          "bed_name": "902G3"
+        }
+      ]
+    },
+    {
+      "parent_id": 559,
+      "parent_name": "Khoa Điều Trị - tầng 9 ",
+      "room_id": 497,
+      "room_name": "Phòng 911 - Điều trị",
+      "beds": [
+        {
+          "bed_id": 91138,
+          "bed_name": "911G38"
+        },
+        {
+          "bed_id": 91140,
+          "bed_name": "911G40"
+        },
+        {
+          "bed_id": 11,
+          "bed_name": "911g38"
+        },
+        {
+          "bed_id": 911,
+          "bed_name": "G38"
+        }
+      ]
+    },
+    {
+      "parent_id": 558,
+      "parent_name": "Khoa Điều Trị - tầng 8 ",
+      "room_id": 496,
+      "room_name": "Phòng 810 - Điều trị",
+      "beds": [
+        {
+          "bed_id": 81034,
+          "bed_name": "810G34"
+        },
+        {
+          "bed_id": 81036,
+          "bed_name": "810G36"
+        },
+        {
+          "bed_id": 81035,
+          "bed_name": "810G35"
+        },
+        {
+          "bed_id": 81037,
+          "bed_name": "810G37"
+        },
+        {
+          "bed_id": 81038,
+          "bed_name": "810G38"
+        }
+      ]
+    },
+    {
+      "parent_id": 558,
+      "parent_name": "Khoa Điều Trị - tầng 8 ",
+      "room_id": 495,
+      "room_name": "Phòng 809 - Điều trị",
+      "beds": [
+        {
+          "bed_id": 80930,
+          "bed_name": "809G30"
+        },
+        {
+          "bed_id": 80932,
+          "bed_name": "809G32"
+        }
+      ]
+    },
+    {
+      "parent_id": 558,
+      "parent_name": "Khoa Điều Trị - tầng 8 ",
+      "room_id": 494,
+      "room_name": "Phòng 808 - Điều trị",
+      "beds": [
+        {
+          "bed_id": 80826,
+          "bed_name": "808G26"
+        },
+        {
+          "bed_id": 80828,
+          "bed_name": "808G28"
+        }
+      ]
+    },
+    {
+      "parent_id": 558,
+      "parent_name": "Khoa Điều Trị - tầng 8 ",
+      "room_id": 493,
+      "room_name": "Phòng 807 - Điều trị",
+      "beds": [
+        {
+          "bed_id": 80722,
+          "bed_name": "807G22"
+        },
+        {
+          "bed_id": 80724,
+          "bed_name": "807G24"
+        },
+        {
+          "bed_id": 80723,
+          "bed_name": "807G23"
+        },
+        {
+          "bed_id": 8071,
+          "bed_name": "GP71"
+        }
+      ]
+    },
+    {
+      "parent_id": 558,
+      "parent_name": "Khoa Điều Trị - tầng 8 ",
+      "room_id": 492,
+      "room_name": "Phòng 806 - Điều trị",
+      "beds": [
+        {
+          "bed_id": 80618,
+          "bed_name": "806G18"
+        },
+        {
+          "bed_id": 80620,
+          "bed_name": "806G20"
+        },
+        {
+          "bed_id": 80619,
+          "bed_name": "806G19"
+        }
+      ]
+    },
+    {
+      "parent_id": 558,
+      "parent_name": "Khoa Điều Trị - tầng 8 ",
+      "room_id": 491,
+      "room_name": "Phòng 805 - Điều trị",
+      "beds": [
+        {
+          "bed_id": 80516,
+          "bed_name": "805G16"
+        },
+        {
+          "bed_id": 80515,
+          "bed_name": "805G15"
+        },
+        {
+          "bed_id": 80517,
+          "bed_name": "805G17"
+        },
+        {
+          "bed_id": 8051,
+          "bed_name": "GP51"
+        }
+      ]
+    },
+    {
+      "parent_id": 558,
+      "parent_name": "Khoa Điều Trị - tầng 8 ",
+      "room_id": 490,
+      "room_name": "Phòng 804 - Điều trị",
+      "beds": [
+        {
+          "bed_id": 80411,
+          "bed_name": "804G11"
+        },
+        {
+          "bed_id": 8049,
+          "bed_name": "804G49"
+        },
+        {
+          "bed_id": 80414,
+          "bed_name": "804G14"
+        },
+        {
+          "bed_id": 80415,
+          "bed_name": "804G50"
+        }
+      ]
+    },
+    {
+      "parent_id": 558,
+      "parent_name": "Khoa Điều Trị - tầng 8 ",
+      "room_id": 489,
+      "room_name": "Phòng 803 - Điều trị",
+      "beds": [
+        {
+          "bed_id": 8036,
+          "bed_name": "803G6"
+        },
+        {
+          "bed_id": 8038,
+          "bed_name": "803G8"
+        },
+        {
+          "bed_id": 8037,
+          "bed_name": "803G7"
+        }
+      ]
+    },
+    {
+      "parent_id": 558,
+      "parent_name": "Khoa Điều Trị - tầng 8 ",
+      "room_id": 488,
+      "room_name": "Phòng 802 - Điều trị",
+      "beds": [
+        {
+          "bed_id": 8022,
+          "bed_name": "802G2"
+        },
+        {
+          "bed_id": 8023,
+          "bed_name": "802G3"
+        },
+        {
+          "bed_id": 8021,
+          "bed_name": "GP8021"
+        }
+      ]
+    },
+    {
+      "parent_id": 558,
+      "parent_name": "Khoa Điều Trị - tầng 8 ",
+      "room_id": 487,
+      "room_name": "Phòng 811 - Điều trị",
+      "beds": [
+        {
+          "bed_id": 81138,
+          "bed_name": "811G38"
+        },
+        {
+          "bed_id": 81140,
+          "bed_name": "811G40"
+        }
+      ]
+    },
+    {
+      "parent_id": 419,
+      "parent_name": "Khoa Điều Trị - tầng 7 ",
+      "room_id": 486,
+      "room_name": "Phòng 710 - Điều trị",
+      "beds": [
+        {
+          "bed_id": 71034,
+          "bed_name": "710G34"
+        },
+        {
+          "bed_id": 71036,
+          "bed_name": "710G36"
+        },
+        {
+          "bed_id": 71035,
+          "bed_name": "710G35"
+        }
+      ]
+    },
+    {
+      "parent_id": 419,
+      "parent_name": "Khoa Điều Trị - tầng 7 ",
+      "room_id": 485,
+      "room_name": "Phòng 709 - Điều trị",
+      "beds": [
+        {
+          "bed_id": 70930,
+          "bed_name": "709G30"
+        },
+        {
+          "bed_id": 70932,
+          "bed_name": "709G32"
+        }
+      ]
+    },
+    {
+      "parent_id": 419,
+      "parent_name": "Khoa Điều Trị - tầng 7 ",
+      "room_id": 483,
+      "room_name": "Phòng 708 - Điều trị",
+      "beds": [
+        {
+          "bed_id": 70826,
+          "bed_name": "708G26"
+        },
+        {
+          "bed_id": 70828,
+          "bed_name": "708G28"
+        },
+        {
+          "bed_id": 9999,
+          "bed_name": "TEST"
+        }
+      ]
+    },
+    {
+      "parent_id": 419,
+      "parent_name": "Khoa Điều Trị - tầng 7 ",
+      "room_id": 482,
+      "room_name": "Phòng 707 - Điều trị",
+      "beds": [
+        {
+          "bed_id": 70722,
+          "bed_name": "707G22"
+        },
+        {
+          "bed_id": 70724,
+          "bed_name": "707G24"
+        },
+        {
+          "bed_id": 70723,
+          "bed_name": "707G23"
+        },
+        {
+          "bed_id": 70721,
+          "bed_name": "707G21"
+        }
+      ]
+    },
+    {
+      "parent_id": 419,
+      "parent_name": "Khoa Điều Trị - tầng 7 ",
+      "room_id": 481,
+      "room_name": "Phòng 706 - Điều trị",
+      "beds": [
+        {
+          "bed_id": 70618,
+          "bed_name": "706G18"
+        },
+        {
+          "bed_id": 70620,
+          "bed_name": "706G20"
+        },
+        {
+          "bed_id": 70619,
+          "bed_name": "706G19"
+        }
+      ]
+    },
+    {
+      "parent_id": 419,
+      "parent_name": "Khoa Điều Trị - tầng 7 ",
+      "room_id": 480,
+      "room_name": "Phòng 705 - Điều trị",
+      "beds": [
+        {
+          "bed_id": 70514,
+          "bed_name": "705G14"
+        },
+        {
+          "bed_id": 70516,
+          "bed_name": "705G16"
+        },
+        {
+          "bed_id": 70515,
+          "bed_name": "705G15"
+        },
+        {
+          "bed_id": 70517,
+          "bed_name": "705G17"
+        }
+      ]
+    },
+    {
+      "parent_id": 419,
+      "parent_name": "Khoa Điều Trị - tầng 7 ",
+      "room_id": 479,
+      "room_name": "Phòng 704 - Điều trị",
+      "beds": [
+        {
+          "bed_id": 70410,
+          "bed_name": "704G10"
+        },
+        {
+          "bed_id": 70412,
+          "bed_name": "704G12"
+        },
+        {
+          "bed_id": 70411,
+          "bed_name": "704G11"
+        },
+        {
+          "bed_id": 7049,
+          "bed_name": "704G9"
+        }
+      ]
+    },
+    {
+      "parent_id": 419,
+      "parent_name": "Khoa Điều Trị - tầng 7 ",
+      "room_id": 478,
+      "room_name": "Phòng 703 - Điều trị",
+      "beds": [
+        {
+          "bed_id": 7036,
+          "bed_name": "703G6"
+        },
+        {
+          "bed_id": 7038,
+          "bed_name": "703G8"
+        },
+        {
+          "bed_id": 7037,
+          "bed_name": "703G7"
+        },
+        {
+          "bed_id": 7035,
+          "bed_name": "703G5"
+        }
+      ]
+    },
+    {
+      "parent_id": 419,
+      "parent_name": "Khoa Điều Trị - tầng 7 ",
+      "room_id": 477,
+      "room_name": "Phòng 702 - Điều trị",
+      "beds": [
+        {
+          "bed_id": 7022,
+          "bed_name": "702G2"
+        },
+        {
+          "bed_id": 7024,
+          "bed_name": "702G4"
+        },
+        {
+          "bed_id": 7023,
+          "bed_name": "702G3"
+        },
+        {
+          "bed_id": 70255,
+          "bed_name": "702G55"
+        },
+        {
+          "bed_id": 70256,
+          "bed_name": "702G56"
+        },
+        {
+          "bed_id": 70257,
+          "bed_name": "702G57"
+        },
+        {
+          "bed_id": 70259,
+          "bed_name": "702G59"
+        },
+        {
+          "bed_id": 70260,
+          "bed_name": "702G60"
+        },
+        {
+          "bed_id": 70261,
+          "bed_name": "702G61"
+        },
+        {
+          "bed_id": 70262,
+          "bed_name": "702G62"
+        },
+        {
+          "bed_id": 70263,
+          "bed_name": "702G63"
+        },
+        {
+          "bed_id": 70264,
+          "bed_name": "702G64"
+        },
+        {
+          "bed_id": 70265,
+          "bed_name": "702G65"
+        },
+        {
+          "bed_id": 70266,
+          "bed_name": "702G66"
+        },
+        {
+          "bed_id": 70267,
+          "bed_name": "702G67"
+        },
+        {
+          "bed_id": 70268,
+          "bed_name": "702G68"
+        },
+        {
+          "bed_id": 70269,
+          "bed_name": "702G69"
+        },
+        {
+          "bed_id": 70270,
+          "bed_name": "702G70"
+        }
+      ]
+    },
+    {
+      "parent_id": 419,
+      "parent_name": "Khoa Điều Trị - tầng 7 ",
+      "room_id": 476,
+      "room_name": "Phòng 711 - Điều trị",
+      "beds": [
+        {
+          "bed_id": 71138,
+          "bed_name": "711G38"
+        },
+        {
+          "bed_id": 71140,
+          "bed_name": "711G40"
+        },
+        {
+          "bed_id": 71139,
+          "bed_name": "711G39"
+        }
+      ]
+    },
+    {
+      "parent_id": 552,
+      "parent_name": "Khoa Điều trị Nhi - tầng 6 ",
+      "room_id": 460,
+      "room_name": "Phòng 610 - Điều Trị",
+      "beds": [
+        {
+          "bed_id": 61034,
+          "bed_name": "610G34"
+        },
+        {
+          "bed_id": 61036,
+          "bed_name": "610G36"
+        },
+        {
+          "bed_id": 61035,
+          "bed_name": "610G35"
+        }
+      ]
+    },
+    {
+      "parent_id": 552,
+      "parent_name": "Khoa Điều trị Nhi - tầng 6 ",
+      "room_id": 459,
+      "room_name": "Phòng 609 - Điều Trị",
+      "beds": [
+        {
+          "bed_id": 60930,
+          "bed_name": "609G30"
+        },
+        {
+          "bed_id": 60932,
+          "bed_name": "609G32"
+        }
+      ]
+    },
+    {
+      "parent_id": 552,
+      "parent_name": "Khoa Điều trị Nhi - tầng 6 ",
+      "room_id": 458,
+      "room_name": "Phòng 608 - Điều Trị",
+      "beds": [
+        {
+          "bed_id": 60826,
+          "bed_name": "608G26"
+        },
+        {
+          "bed_id": 60828,
+          "bed_name": "608G28"
+        }
+      ]
+    },
+    {
+      "parent_id": 552,
+      "parent_name": "Khoa Điều trị Nhi - tầng 6 ",
+      "room_id": 457,
+      "room_name": "Phòng 607 - Điều Trị",
+      "beds": [
+        {
+          "bed_id": 60722,
+          "bed_name": "607G22"
+        },
+        {
+          "bed_id": 60724,
+          "bed_name": "607G24"
+        },
+        {
+          "bed_id": 60723,
+          "bed_name": "607G23"
+        },
+        {
+          "bed_id": 60725,
+          "bed_name": "607G25"
+        }
+      ]
+    },
+    {
+      "parent_id": 552,
+      "parent_name": "Khoa Điều trị Nhi - tầng 6 ",
+      "room_id": 456,
+      "room_name": "Phòng 606 - Điều Trị",
+      "beds": [
+        {
+          "bed_id": 60618,
+          "bed_name": "606G18"
+        },
+        {
+          "bed_id": 60620,
+          "bed_name": "606G20"
+        },
+        {
+          "bed_id": 60619,
+          "bed_name": "606G19"
+        },
+        {
+          "bed_id": 60621,
+          "bed_name": "606G21"
+        }
+      ]
+    },
+    {
+      "parent_id": 552,
+      "parent_name": "Khoa Điều trị Nhi - tầng 6 ",
+      "room_id": 455,
+      "room_name": "Phòng 605 - Điều Trị",
+      "beds": [
+        {
+          "bed_id": 60514,
+          "bed_name": "605G14"
+        },
+        {
+          "bed_id": 60516,
+          "bed_name": "605G16"
+        },
+        {
+          "bed_id": 60513,
+          "bed_name": "605G13"
+        },
+        {
+          "bed_id": 60515,
+          "bed_name": "605G15"
+        },
+        {
+          "bed_id": 60517,
+          "bed_name": "605G17"
+        }
+      ]
+    },
+    {
+      "parent_id": 552,
+      "parent_name": "Khoa Điều trị Nhi - tầng 6 ",
+      "room_id": 454,
+      "room_name": "Phòng 604 - Điều Trị",
+      "beds": [
+        {
+          "bed_id": 60410,
+          "bed_name": "604G10"
+        },
+        {
+          "bed_id": 60412,
+          "bed_name": "604G12"
+        },
+        {
+          "bed_id": 60411,
+          "bed_name": "604G11"
+        },
+        {
+          "bed_id": 60413,
+          "bed_name": "604G13"
+        }
+      ]
+    },
+    {
+      "parent_id": 552,
+      "parent_name": "Khoa Điều trị Nhi - tầng 6 ",
+      "room_id": 453,
+      "room_name": "Phòng 603 - Điều Trị",
+      "beds": [
+        {
+          "bed_id": 6036,
+          "bed_name": "603G6"
+        },
+        {
+          "bed_id": 6038,
+          "bed_name": "603G8"
+        },
+        {
+          "bed_id": 6037,
+          "bed_name": "603G7"
+        },
+        {
+          "bed_id": 6039,
+          "bed_name": "603G9"
+        },
+        {
+          "bed_id": 60310,
+          "bed_name": "603G10"
+        },
+        {
+          "bed_id": 60311,
+          "bed_name": "603G11"
+        }
+      ]
+    },
+    {
+      "parent_id": 552,
+      "parent_name": "Khoa Điều trị Nhi - tầng 6 ",
+      "room_id": 452,
+      "room_name": "Phòng 602 - Điều Trị",
+      "beds": [
+        {
+          "bed_id": 6022,
+          "bed_name": "602G2"
+        },
+        {
+          "bed_id": 6024,
+          "bed_name": "602G4"
+        },
+        {
+          "bed_id": 6023,
+          "bed_name": "602G3"
+        },
+        {
+          "bed_id": 6025,
+          "bed_name": "602G5"
+        },
+        {
+          "bed_id": 6026,
+          "bed_name": "602G6"
+        },
+        {
+          "bed_id": 6027,
+          "bed_name": "602G7"
+        }
+      ]
+    },
+    {
+      "parent_id": 552,
+      "parent_name": "Khoa Điều trị Nhi - tầng 6 ",
+      "room_id": 451,
+      "room_name": "Phòng 611 - Điều trị",
+      "beds": [
+        {
+          "bed_id": 61138,
+          "bed_name": "611G38"
+        },
+        {
+          "bed_id": 61139,
+          "bed_name": "611G39"
+        }
+      ]
+    }
+  ],
+  "status": true
+}
